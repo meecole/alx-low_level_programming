@@ -2,7 +2,7 @@
 
 /**
  * print_most_number - Print the number from 0 to 9
- * Description - Print the number excluding 2 and 4
+ * @x: The number to be printed excluding 2 and 4
  * Return: The number from 0 up to 9
  */
 
