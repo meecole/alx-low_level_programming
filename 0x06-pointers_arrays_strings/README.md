@@ -1,11 +1,3 @@
-NEW 0x06. C - More pointers, arrays and strings
-README.md
-
-
-#More pointers, arrays and strings.
-
-
-#TASKS
 
 
 0. strcat
